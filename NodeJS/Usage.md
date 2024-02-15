@@ -1,12 +1,12 @@
 ### How to prepare to use?
-First, you should put the file(`EzAjax-Javascript-lib-{version}.js`) to dir.
+First, you should put the file(`EzAjax-NodeJS-{version}.js`) to dir.
 Second, put this code to top of your code.
 ```javascript
-import { ajax } from "EzAjax-Javascript-lib-{version}.js"
+import { ajax } from "EzAjax-NodeJS-{version}.js"
 ```
 or
 ```javascript
-const ajax = require("EzAjax-Javascript-lib-{version}.js").ajax;
+const ajax = require("EzAjax-NodeJS-{version}.js").ajax;
 ```
 and use `ajax()` function!
 
